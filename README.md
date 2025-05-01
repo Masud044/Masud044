@@ -1,7 +1,7 @@
 
 [![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://Masud044.io)
 <h1 align="center">Hi 👋, I'm Masud Mia</h1>
-<h3 align="center">A passionate Mern Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Mern Stack developer and Competitive Programmer from Bangladesh</h3>
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masud044&label=Profile%20views&color=0e75b6&style=flat" alt="masud044" /> </p>
